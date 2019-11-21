@@ -1,0 +1,11 @@
+public class humans {
+    String name;
+
+    public void jump(){
+        System.out.println("jump");
+    }
+
+    public void run(){
+        System.out.println("run");
+    }
+}
